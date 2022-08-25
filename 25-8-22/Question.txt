@@ -1,0 +1,6 @@
+Q1)Write a Java Program to Create a new text file and read the input from the user Name, Phone No, Bank name , Account No, Type of Account ,Amount for FD,
+Duration for FD , Calculate the amount and display the final amount. Save the input in the text file and also store the FD imformation.
+Q2) Write a program to accept name from the user accordingly create the file, the no of file creation will bw depend upon thw user.
+Accept the data from the user and store the data from the file which is selected by the user, and also perform the delete opetaion using file.
+Q3)Write a program to implement Fibonacci series by the use of singleton class
+Q4) Write a Program to read content from one file and write it into another file
